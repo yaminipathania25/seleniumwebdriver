@@ -28,7 +28,7 @@ public class Child extends Assignment6 {
 	}	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Child  a = new Child(40, 50, 60, 70);
-		Child b = new Child(10);
+		
 	}
 
 }
